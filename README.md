@@ -27,15 +27,15 @@ Three different methods are used to identify important features:
  ## 4. Model Building and Evaluation
 Several machine learning classifiers are used to predict the binary outcome:
 
-### Logistic Regression
-### Decision Tree Classifier
-### Random Forest Classifier
-### Support Vector Machine (SVC)
-### K-Nearest Neighbors (KNN)
+#### Logistic Regression
+#### Decision Tree Classifier
+#### Random Forest Classifier
+#### Support Vector Machine (SVC)
+#### K-Nearest Neighbors (KNN)
 
 ## Each classifier is trained on 80% of the data and evaluated on the remaining 20%. Key evaluation metrics include:
 
-### Accuracy
-### Precision
-### Recall
-### F1-Score
+#### Accuracy
+#### Precision
+#### Recall
+#### F1-Score
