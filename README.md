@@ -33,7 +33,7 @@ Several machine learning classifiers are used to predict the binary outcome:
 ### Support Vector Machine (SVC)
 ### K-Nearest Neighbors (KNN)
 
-Each classifier is trained on 80% of the data and evaluated on the remaining 20%. Key evaluation metrics include:
+## Each classifier is trained on 80% of the data and evaluated on the remaining 20%. Key evaluation metrics include:
 
 ### Accuracy
 ### Precision
