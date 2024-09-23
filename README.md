@@ -5,10 +5,12 @@ This project focuses on predicting binary outcomes in cancer genomics data using
 We begin by loading the dataset into a pandas DataFrame. The data is inspected for missing values and class distribution.
 
    *Missing Values:* A check is performed to ensure the dataset has no missing values.
+   
    *Class Distribution:* A bar plot of class counts is generated to visually inspect the balance of the dataset.
 
 ## 2. PCA Analysis
 Principal Component Analysis (PCA) is applied to reduce the dimensionality of the dataset, which helps visualize the class separation in a 2D space.
 
  *PCA Transformation:* The data is reduced to two principal components.
+ 
  *Visualization:* A scatter plot is generated to show the separation between classes.
