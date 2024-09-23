@@ -39,3 +39,32 @@ Several machine learning classifiers are used to predict the binary outcome:
 #### Precision
 #### Recall
 #### F1-Score
+
+## 5. Confusion Matrix and Metric Visualization
+Confusion matrices are plotted for each classifier to visualize the classification performance. In addition, the accuracy, precision, recall, and F1-scores are compared across all models using bar plots.
+
+# 6. Results
+### Accuracy Scores:
+ *Logistic Regression:* 97%
+ *Decision Tree:* 96.5%
+ *Random Forest:* 95.5%
+ *SVC:* 97%
+ *KNN:* 96.5%
+#### F1-Scores: Similar performance is observed across classifiers, with Logistic Regression and SVC slightly outperforming others.
+
+## Requirements
+Python 3+
+
+### Required Libraries:
+pandas
+
+numpy
+
+scikit-learn
+
+seaborn
+
+matplotlib
+
+### Clone the repository:
+git clone 
