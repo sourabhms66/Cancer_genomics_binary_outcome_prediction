@@ -14,3 +14,12 @@ Principal Component Analysis (PCA) is applied to reduce the dimensionality of th
  *PCA Transformation:* The data is reduced to two principal components.
  
  *Visualization:* A scatter plot is generated to show the separation between classes.
+
+## 3. Feature Importance Analysis
+Three different methods are used to identify important features:
+
+ *Random Forest Classifier:* Feature importances are extracted based on a trained Random Forest model.
+ 
+ *ANOVA F-statistic:* SelectKBest is used to identify the top features using the F-statistic.
+ 
+ *Relief-based Algorithm:* The ReliefF method selects features based on their relevance to the target class.
