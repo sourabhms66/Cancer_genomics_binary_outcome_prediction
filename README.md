@@ -4,5 +4,5 @@ This project focuses on predicting binary outcomes in cancer genomics data using
 ## 1. Data Loading and Exploration
 We begin by loading the dataset into a pandas DataFrame. The data is inspected for missing values and class distribution.
 
-    *Missing Values:* A check is performed to ensure the dataset has no missing values.
-    *Class Distribution:* A bar plot of class counts is generated to visually inspect the balance of the dataset.
+   *Missing Values:* A check is performed to ensure the dataset has no missing values.
+   *Class Distribution:* A bar plot of class counts is generated to visually inspect the balance of the dataset.
